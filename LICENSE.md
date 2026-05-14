@@ -1,4 +1,4 @@
-#  
+#  instant Utility for Bear for macOS - auto-sync and focus mode is the best Bear for macOS utility, featuring auto-sync and focus mode. Safe, efficient, and optimized for macOS
 
 
 
